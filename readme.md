@@ -45,6 +45,6 @@
     "terraform apply" is subsequently run.
     ```
 
-- Run `terraform apply` to create the `null_provider` . 
+- Run `terraform apply` to create the `null_resource` . 
 
 - In order to destroy the created resources, you can use `terraform destroy`.
